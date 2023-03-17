@@ -2,9 +2,8 @@
 Aim Long Form Perception Exercise
 
 ## Task 1 
-Usage:
-python task1.py --Grid Grid(str) --Orientations Orientations(str) --FoV
-FoV(str)
+**Usage:**
+~python task1.py --Grid Grid(str) --Orientations Orientations(str) --FoV FoV(str) ~
 Sample Input (These values are also stored as default inputs):
 python task1.py --Grid '[[0,0,0,0,0],[T,0,0,0,2],[0,0,0,0,0],[0,0,1,0,0],[0,0,0,0,0]]' --Orientations
 '[180,150]' --FoV '[60,60]'
