@@ -22,3 +22,6 @@ python task1.py --Grid '[[0,0,0,0,0],[T,0,0,0,2],[0,0,0,0,0],[0,0,1,0,0],[0,0,0,
 6.	To run yolo_makecsv.py, I also have labels for one of the experiment runs, exp8 on the repo to run the files. But change the path to generate a different csv. 
 7.	If using for a different video, bad_frames need to be changed. I refined the detect.py , specifically to soccer_ball.py (which needs to be changed for other applications. )
 
+
+### Folder Link:
+https://drive.google.com/drive/folders/1dVZAG0njpsa_eXTuF8SlT1iTLXTxqbbJ?usp=sharing
