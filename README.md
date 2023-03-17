@@ -25,3 +25,6 @@ python task1.py --Grid '[[0,0,0,0,0],[T,0,0,0,2],[0,0,0,0,0],[0,0,1,0,0],[0,0,0,
 
 ### Folder Link:
 https://drive.google.com/drive/folders/1dVZAG0njpsa_eXTuF8SlT1iTLXTxqbbJ?usp=sharing
+
+### Yolo Reference:
+https://github.com/WongKinYiu/yolov7
