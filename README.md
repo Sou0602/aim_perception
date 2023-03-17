@@ -1,7 +1,7 @@
 # aim_perception
 Aim Long Form Perception Exercise
 
-##Task 1 
+## Task 1 
 Usage:
 python task1.py --Grid Grid(str) --Orientations Orientations(str) --FoV
 FoV(str)
@@ -9,7 +9,7 @@ Sample Input (These values are also stored as default inputs):
 python task1.py --Grid '[[0,0,0,0,0],[T,0,0,0,2],[0,0,0,0,0],[0,0,1,0,0],[0,0,0,0,0]]' --Orientations
 '[180,150]' --FoV '[60,60]'
 
-##Task 2
+## Task 2
 To Run the files:
 1.	Include the images folder from the google drive folder shared or run the task2_extract.py file after creating images folder and copying ball_tracking_video.mp4 to task2 folder.
 2.	Copy the weights file from weights in google drive folder to the yolov7 directory.
